@@ -1,0 +1,104 @@
+[
+    {
+        "id": 1,
+        "title": "Freelance iOS Developer",
+        "description": "Experienced iOS developer needed for a high-profile app redesign project.",
+        "technologies": ["Swift", "SwiftUI", "UIKit"],
+        "duration": "12 months",
+        "workType": "Hybrid",
+        "location": {
+            "city": "Demo City",
+            "country": "Demo Country",
+            "remote": "Part-time remote"
+        },
+        "company": {
+            "name": "Demo Company Inc.",
+            "contactEmail": "email@democompany.com",
+            "contactPhone": "+00 123 456 7890"
+        },
+        "client": {
+            "name": "Demo Client LLC",
+            "industry": "Healthcare",
+            "contact": {
+                "name": "John Doe",
+                "email": "johndoe@democlient.com",
+                "phone": "+00 987 654 3210"
+            }
+        },
+        "rate": "Negotiable",
+        "start": "Immediate",
+        "application": {
+            "email": "apply@democompany.com",
+            "phone": "+00 123 456 7890"
+        },
+        "notOpenToSubcontractors": false
+    },
+    {
+        "id": 2,
+        "title": "Freelance Android Developer",
+        "description": "Seeking a skilled Android developer for a new social media application.",
+        "technologies": ["Kotlin", "Java", "Android Studio"],
+        "duration": "10 months",
+        "workType": "Full-time remote",
+        "location": {
+            "city": "Demo Metropolis",
+            "country": "Demo Land",
+            "remote": "Fully remote"
+        },
+        "company": {
+            "name": "Innovatech Solutions",
+            "contactEmail": "careers@innovatech.com",
+            "contactPhone": "+00 222 333 4444"
+        },
+        "client": {
+            "name": "Social Media Inc.",
+            "industry": "Entertainment",
+            "contact": {
+                "name": "Alice Johnson",
+                "email": "alice@socialmedia.com",
+                "phone": "+00 999 888 7777"
+            }
+        },
+        "rate": "Competitive",
+        "start": "ASAP",
+        "application": {
+            "email": "apply@innovatech.com",
+            "phone": "+00 222 333 4444"
+        },
+        "notOpenToSubcontractors": true
+    },
+    {
+        "id": 3,
+        "title": "Web Frontend Developer",
+        "description": "Web developer needed to lead the frontend team for a fintech startup.",
+        "technologies": ["React", "JavaScript", "CSS"],
+        "duration": "8 months",
+        "workType": "Hybrid",
+        "location": {
+            "city": "Tech City",
+            "country": "Innovative Island",
+            "remote": "2 days on-site, 3 days remote"
+        },
+        "company": {
+            "name": "Fintech Startup",
+            "contactEmail": "hr@fintechstartup.com",
+            "contactPhone": "+00 444 555 6666"
+        },
+        "client": {
+            "name": "Investment Bank Inc.",
+            "industry": "Finance",
+            "contact": {
+                "name": "Robert Brown",
+                "email": "rbrown@investmentbank.com",
+                "phone": "+00 123 987 6543"
+            }
+        },
+        "rate": "Hourly",
+        "start": "Next Month",
+        "application": {
+            "email": "jobs@fintechstartup.com",
+            "phone": "+00 444 555 6666"
+        },
+        "notOpenToSubcontractors": false
+    },
+]
