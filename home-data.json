@@ -102,7 +102,7 @@
         "notOpenToSubcontractors": false
     },
     {
-        "id": 3,
+        "id": 4,
         "title": "Web Frontend Developer",
         "description": "Web developer needed to lead the frontend team for a fintech startup.",
         "technologies": ["React", "JavaScript", "CSS"],
@@ -136,7 +136,7 @@
         "notOpenToSubcontractors": false
     },
     {
-        "id": 3,
+        "id": 5,
         "title": "Web Frontend Developer",
         "description": "Web developer needed to lead the frontend team for a fintech startup.",
         "technologies": ["React", "JavaScript", "CSS"],
@@ -170,7 +170,7 @@
         "notOpenToSubcontractors": false
     },
     {
-        "id": 3,
+        "id": 6,
         "title": "Web Frontend Developer",
         "description": "Web developer needed to lead the frontend team for a fintech startup.",
         "technologies": ["React", "JavaScript", "CSS"],
@@ -204,7 +204,7 @@
         "notOpenToSubcontractors": false
     },
     {
-        "id": 3,
+        "id": 7,
         "title": "Web Frontend Developer",
         "description": "Web developer needed to lead the frontend team for a fintech startup.",
         "technologies": ["React", "JavaScript", "CSS"],
@@ -238,7 +238,7 @@
         "notOpenToSubcontractors": false
     },
     {
-        "id": 3,
+        "id": 8,
         "title": "Web Frontend Developer",
         "description": "Web developer needed to lead the frontend team for a fintech startup.",
         "technologies": ["React", "JavaScript", "CSS"],
@@ -272,7 +272,7 @@
         "notOpenToSubcontractors": false
     },
     {
-        "id": 3,
+        "id": 9,
         "title": "Web Frontend Developer",
         "description": "Web developer needed to lead the frontend team for a fintech startup.",
         "technologies": ["React", "JavaScript", "CSS"],
